@@ -1,0 +1,137 @@
+A word not in dict:  'hong
+
+Train Vocabulary Coverage:
+- Từ duy nhất: 44016
+- Trong từ điển: 21790
+- Ngoài từ điển: 22226
+- Tỷ lệ phủ (coverage): 49.50%
+A word not in dict:  hairs.
+
+Validation Vocabulary Coverage:
+- Từ duy nhất: 5116
+- Trong từ điển: 3462
+- Ngoài từ điển: 1654
+- Tỷ lệ phủ (coverage): 67.67%
+A word not in dict:  38,
+
+Test Vocabulary Coverage:
+- Từ duy nhất: 4586
+- Trong từ điển: 3140
+- Ngoài từ điển: 1446
+- Tỷ lệ phủ (coverage): 68.47%
+
+A word not in dict:  courses.
+
+Train Vocabulary Coverage:
+- Unique words: 44016
+- Exist in dict: 21790
+- Outside the dict: 22226
+- Coverage rate: 49.50%
+A word not in dict:  2:30am
+
+Validation Vocabulary Coverage:
+- Unique words: 5116
+- Exist in dict: 3462
+- Outside the dict: 1654
+- Coverage rate: 67.67%
+A word not in dict:  tmz.
+
+Test Vocabulary Coverage:
+- Unique words: 4586
+- Exist in dict: 3140
+- Outside the dict: 1446
+- Coverage rate: 68.47%
+
+A word not in dict:  31yearold
+
+Train Vocabulary Coverage:
+- Unique words: 27450
+- Exist in dict: 23261
+- Outside the dict: 4189
+- Coverage rate: 84.74%
+A word not in dict:  ninehour
+
+Validation Vocabulary Coverage:
+- Unique words: 4055
+- Exist in dict: 3818
+- Outside the dict: 237
+- Coverage rate: 94.16%
+A word not in dict:  handinhand
+
+Test Vocabulary Coverage:
+- Unique words: 3661
+- Exist in dict: 3461
+- Outside the dict: 200
+- Coverage rate: 94.54%
+
+
+A word not in dict:  .election
+
+Train Vocabulary Coverage:
+- Unique words: 28137
+- Exist in dict: 23959
+- Outside the dict: 4178
+- Coverage rate: 85.15%
+A word not in dict:  ruenroeng
+
+Validation Vocabulary Coverage:
+- Unique words: 4104
+- Exist in dict: 3846
+- Outside the dict: 258
+- Coverage rate: 93.71%
+A word not in dict:  city.madelyn
+
+Test Vocabulary Coverage:
+- Unique words: 3707
+- Exist in dict: 3478
+- Outside the dict: 229
+- Coverage rate: 93.82%
+
+A word not in dict:  vintage-inspired
+
+Train Vocabulary Coverage:
+- Unique words: 28137
+- Exist in dict: 23959
+- Outside the dict: 4178
+- Coverage rate: 85.15%
+A word not in dict:  eredivisie.oakland
+
+Validation Vocabulary Coverage:
+- Unique words: 4104
+- Exist in dict: 3846
+- Outside the dict: 258
+- Coverage rate: 93.71%
+A word not in dict:  berckmans
+
+Test Vocabulary Coverage:
+- Unique words: 3707
+- Exist in dict: 3478
+- Outside the dict: 229
+- Coverage rate: 93.82%
+
+nên có sentence piece, bpe, bart large để tự mở rộng từ điển
+
+
+
+100 
+A word not in dict:  dang
+
+Train Vocabulary Coverage:
+- Unique words: 28137
+- Exist in dict: 15424
+- Outside the dict: 12713
+- Coverage rate: 54.82%
+A word not in dict:  lobbing
+
+Validation Vocabulary Coverage:
+- Unique words: 4104
+- Exist in dict: 3366
+- Outside the dict: 738
+- Coverage rate: 82.02%
+A word not in dict:  pochettino
+
+Test Vocabulary Coverage:
+- Unique words: 3707
+- Exist in dict: 3028
+- Outside the dict: 679
+- Coverage rate: 81.68%
