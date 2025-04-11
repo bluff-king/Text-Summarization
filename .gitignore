@@ -177,3 +177,4 @@ dataset_csv/
 wandb/
 Model/
 dataft/
+**/fine_tuned*/
