@@ -178,3 +178,4 @@ wandb/
 Model/
 dataft/
 **/fine_tuned*/
+Embedding/glove.6B.50d.txt
