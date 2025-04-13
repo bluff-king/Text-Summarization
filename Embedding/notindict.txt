@@ -135,3 +135,17 @@ Test Vocabulary Coverage:
 - Exist in dict: 3028
 - Outside the dict: 679
 - Coverage rate: 81.68%
+
+Bart-base
+
+
+
+
+ROUGE scores:
+ROUGE-1: 0.3806
+ROUGE-2: 0.1625
+ROUGE-L: 0.3575
+ROUGE scores:
+ROUGE-1: 0.3855
+ROUGE-2: 0.1685
+ROUGE-L: 0.3628
