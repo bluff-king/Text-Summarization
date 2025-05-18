@@ -178,4 +178,5 @@ wandb/
 Model/
 dataft/
 **/fine_tuned*/
+**/transformer_scratch*/
 Embedding/glove.6B.50d.txt
