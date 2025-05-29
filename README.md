@@ -45,10 +45,12 @@ The project utilizes concepts and data from the following sources:
 [1] S. Banerjee and A. Lavie. Meteor: An automatic metric for mt evaluation with improved cor-
 relation with human judgments. In Proceedings of the ACL Workshop on Intrinsic and Extrinsic
 Evaluation Measures for MT and/or Summarization, pages 65–72, 2005.
+
 [2] P. Gowrishankar. Newspaper text summarization - cnn/dailymail. https://www.
 kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail,
 2023. Accessed from Kaggle: https://www.kaggle.com/datasets/gowrishankarp/
 newspaper-text-summarization-cnn-dailymail.
+
 [3] M. Kirmani, G. Kaur, and M. Mohd. Analysis of abstractive and extractive summarization meth-
 ods. International Journal of Emerging Technologies in Learning (iJET), 19(01):86–96, January
 2024. doi: 10.3991/ijet.v19i01.46079. URL https://doi.org/10.3991/ijet.v19i01.46079.
