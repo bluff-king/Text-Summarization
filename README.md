@@ -24,7 +24,8 @@ This project focuses on abstractive text summarization using deep learning model
 
 A demo of the text summarization models is available.
 
-Demo/demo.png and the link to video demo https://youtu.be/pB3e094TVEc?si=glC1XWXXggWH9_mx
+![Demo Image](Demo/demo.png)
+Link to video demo https://youtu.be/pB3e094TVEc?si=glC1XWXXggWH9_mx
 
 ## Requirements
 
